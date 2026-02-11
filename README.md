@@ -38,6 +38,7 @@ Each line: trainNumber,inboundTrack,outboundTrack (12,8,2)
 Each line: inboundTrack,firstSwitch,secondSwitch,thirdSwitch,outboundTrack (5,4,3,1,1)
 
  ## Project Structure
+ ```
  src/project2/
 ├── Main.java          # Simulation entry point
 ├── TrainTask.java    # Runnable train logic
@@ -49,4 +50,6 @@ Each line: inboundTrack,firstSwitch,secondSwitch,thirdSwitch,outboundTrack (5,4,
 theFleetFile.csv
 theYardFile.csv
 sampleRunOutput.txt
+```
+
 
