@@ -51,5 +51,32 @@ theFleetFile.csv
 theYardFile.csv
 sampleRunOutput.txt
 ```
+## Why This Project Is Valuable
+
+This project demonstrates real-world concurrency skills applicable to:
+
+-Systems programming
+
+-Backend engineering
+
+-Distributed systems
+
+-Infrastructure & cybersecurity roles
+
+## It showcases practical handling of:
+
+-Resource contention
+
+-Deadlock prevention
+
+-Thread coordination
+
+-Deterministic correctness under nondeterministic execution
+
+## Author
+
+William Romero
+B.S. Information Technology (Cybersecurity Focus)
+University of Central Florida
 
 
