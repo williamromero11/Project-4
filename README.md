@@ -76,7 +76,9 @@ This project demonstrates real-world concurrency skills applicable to:
 ## Author
 
 William Romero
+
 B.S. Information Technology (Cybersecurity Focus)
+
 University of Central Florida
 
 
