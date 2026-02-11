@@ -31,5 +31,22 @@ A concurrent train-yard simulation that models multiple trains attempting to tra
 ## Input Files
 Place the input files in a known location (recommended: an `input/` folder in the project root).
 
-### Fleet File (`TheFleet.csv`)
-Each line:
+### Fleet File (`TheFleetFile.csv`)
+Each line: trainNumber,inboundTrack,outboundTrack (12,8,2)
+
+### Yard File (`TheYardFile.csv`)
+Each line: inboundTrack,firstSwitch,secondSwitch,thirdSwitch,outboundTrack (5,4,3,1,1)
+
+ ## Project Structure
+ src/project2/
+├── Main.java          # Simulation entry point
+├── TrainTask.java    # Runnable train logic
+├── TrainStatus.java  # Per-train state tracking
+├── Switch.java       # Lockable switch abstraction
+├── Yard.java         # Yard coordination logic
+└── YardRoute.java    # Track/switch route definitions
+
+theFleetFile.csv
+theYardFile.csv
+sampleRunOutput.txt
+
