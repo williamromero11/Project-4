@@ -1,0 +1,555 @@
+$ $ $ TRAIN MOVEMENT SIMULATION BEGINS. $ $ $
+Train 11: HOLDS LOCK on Switch 4.
+Train 11: HOLDS LOCK on Switch 3.
+Train 17: HOLDS LOCK on Switch 1.
+Train 11: UNABLE TO LOCK third required switch: Switch 1.
+Train 10: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 17: UNABLE TO LOCK second required switch: Switch 3.
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: UNABLE TO LOCK second required switch: Switch 3.
+Train 18: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 17: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 15: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 16: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 19: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 20: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 22: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 21: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 24: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 23: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 25: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+*************
+Train 14 is on permanent hold and cannot be dispatched.
+*************
+Train 11: Releasing locks on first and second required switches: Switch 4 and Switch 3.
+Train will wait...
+Train 18: HOLDS LOCK on Switch 5.
+Train 18: HOLDS LOCK on Switch 3.
+Train 18: HOLDS LOCK on Switch 1.
+Train 18: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 22: HOLDS LOCK on Switch 2.
+Train 22: UNABLE TO LOCK second required switch: Switch 3.
+Train 22: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 19: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 16: HOLDS LOCK on Switch 2.
+Train 16: UNABLE TO LOCK second required switch: Switch 3.
+Train 16: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 25: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 11: HOLDS LOCK on Switch 4.
+Train 11: UNABLE TO LOCK second required switch: Switch 3.
+Train 11: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 17: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 20: HOLDS LOCK on Switch 2.
+Train 20: UNABLE TO LOCK second required switch: Switch 3.
+Train 20: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 22: HOLDS LOCK on Switch 2.
+Train 22: UNABLE TO LOCK second required switch: Switch 3.
+Train 22: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 21: HOLDS LOCK on Switch 4.
+Train 21: UNABLE TO LOCK second required switch: Switch 3.
+Train 21: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: UNABLE TO LOCK second required switch: Switch 3.
+Train 15: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 23: HOLDS LOCK on Switch 4.
+Train 23: UNABLE TO LOCK second required switch: Switch 3.
+Train 23: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 25: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 17: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 10: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 11: HOLDS LOCK on Switch 4.
+Train 11: UNABLE TO LOCK second required switch: Switch 3.
+Train 11: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 12: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 24: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 20: HOLDS LOCK on Switch 2.
+Train 20: UNABLE TO LOCK second required switch: Switch 3.
+Train 20: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 16: HOLDS LOCK on Switch 2.
+Train 16: UNABLE TO LOCK second required switch: Switch 3.
+Train 16: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 21: HOLDS LOCK on Switch 4.
+Train 21: UNABLE TO LOCK second required switch: Switch 3.
+Train 21: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 16: HOLDS LOCK on Switch 2.
+Train 16: UNABLE TO LOCK second required switch: Switch 3.
+Train 16: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 18: Clear of yard control.
+Train 18: Releasing all switch locks.
+Train 18: Unlocks/releases lock on Switch 5.
+Train 18: Unlocks/releases lock on Switch 3.
+Train 18: Unlocks/releases lock on Switch 1.
+Train 18: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 18: DISPATCHED @ @ @
+Train 19: HOLDS LOCK on Switch 5.
+Train 19: HOLDS LOCK on Switch 3.
+Train 19: HOLDS LOCK on Switch 1.
+Train 19: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 24: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 23: HOLDS LOCK on Switch 4.
+Train 23: UNABLE TO LOCK second required switch: Switch 3.
+Train 23: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 17: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 10: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 12: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 25: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: UNABLE TO LOCK second required switch: Switch 3.
+Train 15: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 16: HOLDS LOCK on Switch 2.
+Train 16: UNABLE TO LOCK second required switch: Switch 3.
+Train 16: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 22: HOLDS LOCK on Switch 2.
+Train 22: UNABLE TO LOCK second required switch: Switch 3.
+Train 22: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 21: HOLDS LOCK on Switch 4.
+Train 21: UNABLE TO LOCK second required switch: Switch 3.
+Train 21: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 24: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 11: HOLDS LOCK on Switch 4.
+Train 11: UNABLE TO LOCK second required switch: Switch 3.
+Train 11: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 17: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 20: HOLDS LOCK on Switch 2.
+Train 20: UNABLE TO LOCK second required switch: Switch 3.
+Train 20: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: UNABLE TO LOCK second required switch: Switch 3.
+Train 15: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 16: HOLDS LOCK on Switch 2.
+Train 16: UNABLE TO LOCK second required switch: Switch 3.
+Train 16: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 19: Clear of yard control.
+Train 19: Releasing all switch locks.
+Train 19: Unlocks/releases lock on Switch 5.
+Train 19: Unlocks/releases lock on Switch 3.
+Train 19: Unlocks/releases lock on Switch 1.
+Train 19: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 19: DISPATCHED @ @ @
+Train 25: HOLDS LOCK on Switch 1.
+Train 25: HOLDS LOCK on Switch 3.
+Train 25: HOLDS LOCK on Switch 5.
+Train 25: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 23: HOLDS LOCK on Switch 4.
+Train 23: UNABLE TO LOCK second required switch: Switch 3.
+Train 23: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 10: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 24: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 11: HOLDS LOCK on Switch 4.
+Train 11: UNABLE TO LOCK second required switch: Switch 3.
+Train 11: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 21: HOLDS LOCK on Switch 4.
+Train 21: UNABLE TO LOCK second required switch: Switch 3.
+Train 21: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 12: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 23: HOLDS LOCK on Switch 4.
+Train 23: UNABLE TO LOCK second required switch: Switch 3.
+Train 23: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 16: HOLDS LOCK on Switch 2.
+Train 16: UNABLE TO LOCK second required switch: Switch 3.
+Train 16: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 22: HOLDS LOCK on Switch 2.
+Train 22: UNABLE TO LOCK second required switch: Switch 3.
+Train 22: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: UNABLE TO LOCK second required switch: Switch 3.
+Train 15: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 20: HOLDS LOCK on Switch 2.
+Train 20: UNABLE TO LOCK second required switch: Switch 3.
+Train 20: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 17: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 25: Clear of yard control.
+Train 25: Releasing all switch locks.
+Train 25: Unlocks/releases lock on Switch 1.
+Train 25: Unlocks/releases lock on Switch 3.
+Train 25: Unlocks/releases lock on Switch 5.
+Train 25: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 25: DISPATCHED @ @ @
+Train 24: HOLDS LOCK on Switch 5.
+Train 24: HOLDS LOCK on Switch 3.
+Train 24: HOLDS LOCK on Switch 1.
+Train 24: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 12: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 21: HOLDS LOCK on Switch 4.
+Train 21: UNABLE TO LOCK second required switch: Switch 3.
+Train 21: Releasing lock on first required switch: Switch 4. Train will wait...
+Train 16: HOLDS LOCK on Switch 2.
+Train 16: UNABLE TO LOCK second required switch: Switch 3.
+Train 16: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: UNABLE TO LOCK second required switch: Switch 3.
+Train 15: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 22: HOLDS LOCK on Switch 2.
+Train 22: UNABLE TO LOCK second required switch: Switch 3.
+Train 22: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 24: Clear of yard control.
+Train 24: Releasing all switch locks.
+Train 24: Unlocks/releases lock on Switch 5.
+Train 24: Unlocks/releases lock on Switch 3.
+Train 24: Unlocks/releases lock on Switch 1.
+Train 24: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 24: DISPATCHED @ @ @
+Train 20: HOLDS LOCK on Switch 2.
+Train 20: HOLDS LOCK on Switch 3.
+Train 20: HOLDS LOCK on Switch 4.
+Train 20: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 23: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 10: HOLDS LOCK on Switch 1.
+Train 10: UNABLE TO LOCK second required switch: Switch 3.
+Train 10: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 11: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 21: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 22: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 17: HOLDS LOCK on Switch 1.
+Train 17: UNABLE TO LOCK second required switch: Switch 3.
+Train 17: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 23: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 21: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 15: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 20: Clear of yard control.
+Train 20: Releasing all switch locks.
+Train 20: Unlocks/releases lock on Switch 2.
+Train 20: Unlocks/releases lock on Switch 3.
+Train 20: Unlocks/releases lock on Switch 4.
+Train 20: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 20: DISPATCHED @ @ @
+Train 16: HOLDS LOCK on Switch 2.
+Train 16: HOLDS LOCK on Switch 3.
+Train 16: HOLDS LOCK on Switch 4.
+Train 16: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 13: HOLDS LOCK on Switch 1.
+Train 13: UNABLE TO LOCK second required switch: Switch 3.
+Train 13: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 10: HOLDS LOCK on Switch 1.
+Train 10: UNABLE TO LOCK second required switch: Switch 3.
+Train 10: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 17: HOLDS LOCK on Switch 1.
+Train 17: UNABLE TO LOCK second required switch: Switch 3.
+Train 17: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 11: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 23: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 22: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 13: HOLDS LOCK on Switch 1.
+Train 13: UNABLE TO LOCK second required switch: Switch 3.
+Train 13: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 21: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 15: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 13: HOLDS LOCK on Switch 1.
+Train 13: UNABLE TO LOCK second required switch: Switch 3.
+Train 13: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 17: HOLDS LOCK on Switch 1.
+Train 17: UNABLE TO LOCK second required switch: Switch 3.
+Train 17: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 16: Clear of yard control.
+Train 16: Releasing all switch locks.
+Train 16: Unlocks/releases lock on Switch 2.
+Train 16: Unlocks/releases lock on Switch 3.
+Train 16: Unlocks/releases lock on Switch 4.
+Train 16: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 16: DISPATCHED @ @ @
+Train 23: HOLDS LOCK on Switch 4.
+Train 23: HOLDS LOCK on Switch 3.
+Train 23: HOLDS LOCK on Switch 5.
+Train 23: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 11: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 10: HOLDS LOCK on Switch 1.
+Train 10: UNABLE TO LOCK second required switch: Switch 3.
+Train 10: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 22: HOLDS LOCK on Switch 2.
+Train 22: UNABLE TO LOCK second required switch: Switch 3.
+Train 22: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 12: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 17: HOLDS LOCK on Switch 1.
+Train 17: UNABLE TO LOCK second required switch: Switch 3.
+Train 17: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: UNABLE TO LOCK second required switch: Switch 3.
+Train 15: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 13: HOLDS LOCK on Switch 1.
+Train 13: UNABLE TO LOCK second required switch: Switch 3.
+Train 13: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 12: UNABLE TO LOCK first required switch: Switch 5. Train will wait...
+Train 22: HOLDS LOCK on Switch 2.
+Train 22: UNABLE TO LOCK second required switch: Switch 3.
+Train 22: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 21: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 11: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 23: Clear of yard control.
+Train 23: Releasing all switch locks.
+Train 23: Unlocks/releases lock on Switch 4.
+Train 23: Unlocks/releases lock on Switch 3.
+Train 23: Unlocks/releases lock on Switch 5.
+Train 23: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 23: DISPATCHED @ @ @
+Train 22: HOLDS LOCK on Switch 2.
+Train 22: HOLDS LOCK on Switch 3.
+Train 22: HOLDS LOCK on Switch 4.
+Train 22: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 15: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 10: HOLDS LOCK on Switch 1.
+Train 10: UNABLE TO LOCK second required switch: Switch 3.
+Train 10: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 21: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 17: HOLDS LOCK on Switch 1.
+Train 17: UNABLE TO LOCK second required switch: Switch 3.
+Train 17: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 10: HOLDS LOCK on Switch 1.
+Train 10: UNABLE TO LOCK second required switch: Switch 3.
+Train 10: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 13: HOLDS LOCK on Switch 1.
+Train 13: UNABLE TO LOCK second required switch: Switch 3.
+Train 13: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 15: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 11: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 13: HOLDS LOCK on Switch 1.
+Train 13: UNABLE TO LOCK second required switch: Switch 3.
+Train 13: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 10: HOLDS LOCK on Switch 1.
+Train 10: UNABLE TO LOCK second required switch: Switch 3.
+Train 10: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 21: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 15: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 22: Clear of yard control.
+Train 22: Releasing all switch locks.
+Train 22: Unlocks/releases lock on Switch 2.
+Train 22: Unlocks/releases lock on Switch 3.
+Train 22: Unlocks/releases lock on Switch 4.
+Train 22: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 22: DISPATCHED @ @ @
+Train 10: HOLDS LOCK on Switch 1.
+Train 10: HOLDS LOCK on Switch 3.
+Train 10: HOLDS LOCK on Switch 4.
+Train 10: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 17: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 11: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: UNABLE TO LOCK second required switch: Switch 3.
+Train 15: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 21: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 17: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 10: Clear of yard control.
+Train 10: Releasing all switch locks.
+Train 10: Unlocks/releases lock on Switch 1.
+Train 10: Unlocks/releases lock on Switch 3.
+Train 10: Unlocks/releases lock on Switch 4.
+Train 10: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 10: DISPATCHED @ @ @
+Train 21: HOLDS LOCK on Switch 4.
+Train 21: HOLDS LOCK on Switch 3.
+Train 21: HOLDS LOCK on Switch 2.
+Train 21: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 15: UNABLE TO LOCK first required switch: Switch 2. Train will wait...
+Train 13: HOLDS LOCK on Switch 1.
+Train 13: UNABLE TO LOCK second required switch: Switch 3.
+Train 13: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 11: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 21: Clear of yard control.
+Train 21: Releasing all switch locks.
+Train 21: Unlocks/releases lock on Switch 4.
+Train 21: Unlocks/releases lock on Switch 3.
+Train 21: Unlocks/releases lock on Switch 2.
+Train 21: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 21: DISPATCHED @ @ @
+Train 17: HOLDS LOCK on Switch 1.
+Train 17: HOLDS LOCK on Switch 3.
+Train 17: HOLDS LOCK on Switch 4.
+Train 17: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: UNABLE TO LOCK second required switch: Switch 3.
+Train 15: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 11: UNABLE TO LOCK first required switch: Switch 4. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: UNABLE TO LOCK second required switch: Switch 3.
+Train 15: Releasing lock on first required switch: Switch 2. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 17: Clear of yard control.
+Train 17: Releasing all switch locks.
+Train 17: Unlocks/releases lock on Switch 1.
+Train 17: Unlocks/releases lock on Switch 3.
+Train 17: Unlocks/releases lock on Switch 4.
+Train 17: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 17: DISPATCHED @ @ @
+Train 11: HOLDS LOCK on Switch 4.
+Train 11: HOLDS LOCK on Switch 3.
+Train 11: HOLDS LOCK on Switch 1.
+Train 11: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 11: Clear of yard control.
+Train 11: Releasing all switch locks.
+Train 11: Unlocks/releases lock on Switch 4.
+Train 11: Unlocks/releases lock on Switch 3.
+Train 11: Unlocks/releases lock on Switch 1.
+Train 11: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 11: DISPATCHED @ @ @
+Train 15: HOLDS LOCK on Switch 2.
+Train 15: HOLDS LOCK on Switch 3.
+Train 15: HOLDS LOCK on Switch 4.
+Train 15: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 13: HOLDS LOCK on Switch 1.
+Train 13: UNABLE TO LOCK second required switch: Switch 3.
+Train 13: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 13: HOLDS LOCK on Switch 1.
+Train 13: UNABLE TO LOCK second required switch: Switch 3.
+Train 13: Releasing lock on first required switch: Switch 1. Train will wait...
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: UNABLE TO LOCK second required switch: Switch 3.
+Train 12: Releasing lock on first required switch: Switch 5. Train will wait...
+Train 15: Clear of yard control.
+Train 15: Releasing all switch locks.
+Train 15: Unlocks/releases lock on Switch 2.
+Train 15: Unlocks/releases lock on Switch 3.
+Train 15: Unlocks/releases lock on Switch 4.
+Train 15: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 15: DISPATCHED @ @ @
+Train 12: HOLDS LOCK on Switch 5.
+Train 12: HOLDS LOCK on Switch 3.
+Train 12: HOLDS LOCK on Switch 1.
+Train 12: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 13: UNABLE TO LOCK first required switch: Switch 1. Train will wait...
+Train 12: Clear of yard control.
+Train 12: Releasing all switch locks.
+Train 12: Unlocks/releases lock on Switch 5.
+Train 12: Unlocks/releases lock on Switch 3.
+Train 12: Unlocks/releases lock on Switch 1.
+Train 12: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 12: DISPATCHED @ @ @
+Train 13: HOLDS LOCK on Switch 1.
+Train 13: HOLDS LOCK on Switch 3.
+Train 13: HOLDS LOCK on Switch 5.
+Train 13: HOLDS ALL NEEDED SWITCH LOCKS – Train movement begins.
+Train 13: Clear of yard control.
+Train 13: Releasing all switch locks.
+Train 13: Unlocks/releases lock on Switch 1.
+Train 13: Unlocks/releases lock on Switch 3.
+Train 13: Unlocks/releases lock on Switch 5.
+Train 13: Has been dispatched and moves on down the line out of yard control into CTC.
+@ @ @ TRAIN 13: DISPATCHED @ @ @
+
+FINAL STATUS OF ALL TRAINS
+--------------------------
+
+Train Number 10 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+10           1              5              1         3         4         false    true        9               
+
+Train Number 11 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+11           5              1              4         3         1         false    true        12              
+
+Train Number 12 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+12           8              2              5         3         1         false    true        14              
+
+Train Number 13 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+13           2              8              1         3         5         false    true        15              
+
+Train Number 14 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+14           4              2              0         0         0         true     false       0               
+
+Train Number 15 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+15           3              6              2         3         4         false    true        13              
+
+Train Number 16 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+16           4              6              2         3         4         false    true        6               
+
+Train Number 17 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+17           1              5              1         3         4         false    true        11              
+
+Train Number 18 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+18           8              2              5         3         1         false    true        1               
+
+Train Number 19 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+19           8              1              5         3         1         false    true        2               
+
+Train Number 20 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+20           3              6              2         3         4         false    true        5               
+
+Train Number 21 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+21           5              4              4         3         2         false    true        10              
+
+Train Number 22 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+22           4              5              2         3         4         false    true        8               
+
+Train Number 23 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+23           6              8              4         3         5         false    true        7               
+
+Train Number 24 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+24           8              2              5         3         1         false    true        4               
+
+Train Number 25 assigned.
+Train Number Inbound Track  Outbound Track Switch 1  Switch 2  Switch 3  Hold     Dispatched  Dispatch Sequence
+-----------------------------------------------------------------------------------------------
+25           2              8              1         3         5         false    true        3               
+
+$ $ $ SIMULATION ENDS $ $ $
